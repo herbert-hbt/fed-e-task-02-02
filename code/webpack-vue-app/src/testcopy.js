@@ -6,6 +6,7 @@ a.addEventListener('click', () => {
   console.log('ddd')
   console.log('ddd')
   console.log('ddd')
+  // aaa
 })
 
 export const F = a.length > 0 ? 'ssfhjsbjhdgcvshd' : 'yyyyyyyyyyyy'
